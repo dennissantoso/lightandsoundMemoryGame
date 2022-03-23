@@ -40,10 +40,11 @@ Lose Preview
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[I used stackoverflow to help me figured out how random number generator works in javascript
+
+- I used stackoverflow to help me figured out how random number generator works in javascript
 (https://stackoverflow.com/questions/4959975/generate-random-number-between-two-numbers-in-javascript). 
-I also use google search for a random soft pastel colors for the theme of the game 
-(https://www.google.com/search?q=soft+color+palettes&sxsrf=APq-WBsjs_u8ldwvwdAmWwPp8v-GZAaVNQ:1648073548562&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjQ2LOzoN32AhUdJkQIHZyfB-wQ_AUoAXoECAEQAw&biw=1918&bih=1009&dpr=1).]
+- I also use google search for a random soft pastel colors for the theme of the game 
+(https://www.google.com/search?q=soft+color+palettes&sxsrf=APq-WBsjs_u8ldwvwdAmWwPp8v-GZAaVNQ:1648073548562&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjQ2LOzoN32AhUdJkQIHZyfB-wQ_AUoAXoECAEQAw&biw=1918&bih=1009&dpr=1).
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 [YOUR ANSWER HERE]
