@@ -32,6 +32,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
+
 Win Preview
 ![](https://i.imgur.com/SLG6DVu.gif)
 Lose Preview
