@@ -1,7 +1,7 @@
 console.log("Hello and Welcome to the game 🌎");
 // global constants
-const clueHoldTime = 1000; //how long to hold each clue's light/sound
-const cluePauseTime = 333; //how long to pause in between clues
+var clueHoldTime = 1000; //how long to hold each clue's light/sound
+var cluePauseTime = 333; //how long to pause in between clues
 const nextClueWaitTime = 1000; //how long to wait before starting playback of the clue sequence
 
 // for random numbers
@@ -72,6 +72,8 @@ function playClueSequence(){
     delay += clueHoldTime 
     delay += cluePauseTime;
   }
+  clueHoldTime -= clueHoldTime / 3.22;
+  cluePauseTime -= cluePauseTime / 3.22;
 }
 
 // ----------------------------------------------------------------------------------------
@@ -109,10 +111,10 @@ function guess(btn){
 ////////////////////////////////////////////////////////////////////////
 // Sound Synthesis Functions
 const freqMap = {
-  1: 261.6,
-  2: 329.6,
-  3: 392,
-  4: 466.2,
+  1: 260,
+  2: 331.6,
+  3: 391,
+  4: 463.2,
   5: 552.1,
   6: 633.5
 }
