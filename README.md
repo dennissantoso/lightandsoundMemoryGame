@@ -43,8 +43,8 @@ Win Preview
 ![](https://i.imgur.com/JczmEdI.gif)
 Lose Preview
 ![](https://i.imgur.com/kok1YzV.gif)
-
 Mobile Preview
+
 ![](https://i.imgur.com/iSschtx.gif)
 
 ## Reflection Questions
