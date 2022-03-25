@@ -40,9 +40,9 @@ The following **additional** features are implemented:
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 
 Win Preview
-![](https://i.imgur.com/SLG6DVu.gif)
+![](https://i.imgur.com/JczmEdI.gif)
 Lose Preview
-![](https://i.imgur.com/v4dkmXl.gif)
+![](https://i.imgur.com/kok1YzV.gif)
 Mobile Preview
 ![](https://i.imgur.com/iSschtx.gif)
 
