@@ -7,6 +7,7 @@ Submitted by: **Dennis Santoso**
 Time spent: **11** hours spent in total
 
 Link to Live Site: https://tungsten-rift-cairnsmore.glitch.me
+
 Link to Code: https://glitch.com/edit/#!/tungsten-rift-cairnsmore
 
 ## Required Functionality
