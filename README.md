@@ -94,7 +94,7 @@ Mobile Preview
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://drive.google.com/file/d/1nMyigYUtxbh-ul-5Xr8gTjMxt9W5hTM-/view?usp=sharing)
 
 ## License
 
